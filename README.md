@@ -1,2 +1,2 @@
 # exp-project
-A simple experimental repo to practice collaborative developement using gtt &amp; github.
+A simple experimental repo to practice collaborative developement using git &amp; github.
